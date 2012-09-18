@@ -1,6 +1,11 @@
 {
   "name": "DevicesStock",
+  "description": "Device stock managment",
   "version": "0.0.1",
+  "author": {
+    "name": "Youhsns Hana",
+    "email": "meyouhana@gmail.com"
+  },
   "private": true,
   "scripts": {
     "start": "node app",
@@ -15,5 +20,10 @@
   "devDependencies": {
 	"mocha": "1.4.x",
 	"sinon": "1.4.x"
-  }
+  },
+ "repository": {
+    "type": "git",
+    "url": "git://github.com/Youhana-Hana/DeviceStock.git"
+  },
+  "main": "index"
 }
