@@ -1,0 +1,13 @@
+ # 	Story						Owner
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+1	Codecoverage
+2	Web site layout
+3	Login
+4	Manage device platform
+5	Manage device OS platform version
+6	Manage device properties( Processor, GPS support, GPRS support, WLAN support, LAN support, etc...)
+7	Manage device accessories (Battery, Dock, cables, SD card, SIM card)
+8	Manage device shipmment ( shippment address, return address, contacts, etc...)
+9	Manage device return status
+10	Manage device certification status ( New, certified, needs validation, recertified, etc..)
+11	prodcue device documentation
